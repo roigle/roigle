@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roigle
 - 👀 I’m interested in Python, Django, JavaScript and CSS.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript and React.
 - 💞️ I’m looking to collaborate on cool projects.
 - 📫 How to reach me: message me!
 
