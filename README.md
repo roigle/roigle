@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @roigle
+- 👋 Hi, I’m Rocío
 - 👀 I’m interested in Python, Django, JavaScript and CSS.
 - 🌱 I’m currently learning JavaScript and React.
 - 💞️ I’m looking to collaborate on cool projects.
